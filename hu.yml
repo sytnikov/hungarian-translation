@@ -3,7 +3,7 @@ en:
   admin:
     welcome:
       index:
-        total_views: Total Views
+        total_views: Total Views #translate this
         lesson_title: Lesson title
     paths:
       certificates_tab:
